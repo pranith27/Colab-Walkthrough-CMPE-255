@@ -60,6 +60,3 @@ The [Neural Network Playground](https://dlmastery.github.io/neural-network-playg
 - [Assignment source document](https://docs.google.com/document/d/1DisPS-x4_sh-JC5ezVH_69wloBXYGaWSdo1lj46c7GE/edit?usp=drivesdk)
 - [Neural Network Playground](https://dlmastery.github.io/neural-network-playground/)
 
-## Final Submission Checklist
-
-Before submission, verify the copied Colabs in Google Drive are shared with the required world-access setting, upload the 16 Colab walkthroughs and the Neural Network Playground walkthrough to YouTube, replace every **ADD YOUTUBE LINK** entry above, and confirm the GitHub repository contains the executed notebooks and reports.
