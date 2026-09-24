@@ -13,24 +13,24 @@ This repository contains the executed prerequisite Colabs for the CMPE 255 assig
 
 All 16 archived notebooks were inspected from the executed notebook set. Every code cell has an execution count, no notebook contains an unexecuted code cell, and no recorded cell output is an error. The notebooks are archived with their recorded outputs.
 
-| # | Topic | Code cells | Unexecuted | Errors | Notebook | Execution report |
+| # | Topic | Code cells | Notebook | Execution report |
 |---:|---|---:|---:|---:|---|---|
-| 1 | Python | 151 | 0 | 0 | [Notebook](02_Notebooks/01_Introduction_to_Python.ipynb) | [Report](01_Execution_Reports/01_Introduction_to_Python.md) |
-| 2 | NumPy | 54 | 0 | 0 | [Notebook](02_Notebooks/02_Introduction_to_NumPy.ipynb) | [Report](01_Execution_Reports/02_Introduction_to_NumPy.md) |
-| 3 | Pandas | 90 | 0 | 0 | [Notebook](02_Notebooks/03_Introduction_to_Pandas.ipynb) | [Report](01_Execution_Reports/03_Introduction_to_Pandas.md) |
-| 4 | Matplotlib | 85 | 0 | 0 | [Notebook](02_Notebooks/04_Matplotlib.ipynb) | [Report](01_Execution_Reports/04_Introduction_to_Matplotlib.md) |
-| 5 | Basic Linear Algebra | 82 | 0 | 0 | [Notebook](02_Notebooks/05_Basic_Linear_Algebra.ipynb) | [Report](01_Execution_Reports/05_Basic_Linear_Algebra.md) |
-| 6 | Linear Algebra 2 | 35 | 0 | 0 | [Notebook](02_Notebooks/06_Linear_Algebra_2.ipynb) | [Report](01_Execution_Reports/06_Linear_Algebra_2.md) |
-| 7 | Linear Algebra 3 | 30 | 0 | 0 | [Notebook](02_Notebooks/07_Linear_Algebra_3.ipynb) | [Report](01_Execution_Reports/07_Linear_Algebra_3.md) |
-| 8 | Probability | 83 | 0 | 0 | [Notebook](02_Notebooks/08_Probability.ipynb) | [Report](01_Execution_Reports/08_Introduction_to_Probability.md) |
-| 9 | Statistics | 86 | 0 | 0 | [Notebook](02_Notebooks/09_Statistics.ipynb) | [Report](01_Execution_Reports/09_Introduction_to_Statistics.md) |
-| 10 | Data Science Probability & Statistics 1 | 22 | 0 | 0 | [Notebook](02_Notebooks/10_Data_Science_Probability_Statistics_1.ipynb) | [Report](01_Execution_Reports/10_Data_Science_Probability_Statistics_1.md) |
-| 11 | Data Science Probability & Statistics 2 | 16 | 0 | 0 | [Notebook](02_Notebooks/11_Data_Science_Probability_Statistics_2.ipynb) | [Report](01_Execution_Reports/11_Data_Science_Probability_Statistics_2.md) |
-| 12 | Data Science Probability & Statistics 3 | 52 | 0 | 0 | [Notebook](02_Notebooks/12_Data_Science_Probability_Statistics_3.ipynb) | [Report](01_Execution_Reports/12_Data_Science_Probability_Statistics_3.md) |
-| 13 | Calculus 1 | 79 | 0 | 0 | [Notebook](02_Notebooks/13_Calculus_1.ipynb) | [Report](01_Execution_Reports/13_Calculus_1.md) |
-| 14 | Calculus 2 | 17 | 0 | 0 | [Notebook](02_Notebooks/14_Calculus_2.ipynb) | [Report](01_Execution_Reports/14_Calculus_2.md) |
-| 15 | Calculus 3 | 51 | 0 | 0 | [Notebook](02_Notebooks/15_Calculus_3.ipynb) | [Report](01_Execution_Reports/15_Calculus_3.md) |
-| 16 | Foundations of Learning | 22 | 0 | 0 | [Notebook](02_Notebooks/16_Foundations_of_Learning.ipynb) | [Report](01_Execution_Reports/16_Foundations_of_Learning.md) |
+| 1 | Python | 151 | [Notebook](02_Notebooks/01_Introduction_to_Python.ipynb) | [Report](01_Execution_Reports/01_Introduction_to_Python.md) |
+| 2 | NumPy | 54 | [Notebook](02_Notebooks/02_Introduction_to_NumPy.ipynb) | [Report](01_Execution_Reports/02_Introduction_to_NumPy.md) |
+| 3 | Pandas | 90 | [Notebook](02_Notebooks/03_Introduction_to_Pandas.ipynb) | [Report](01_Execution_Reports/03_Introduction_to_Pandas.md) |
+| 4 | Matplotlib | 85 | [Notebook](02_Notebooks/04_Matplotlib.ipynb) | [Report](01_Execution_Reports/04_Introduction_to_Matplotlib.md) |
+| 5 | Basic Linear Algebra | 82 | [Notebook](02_Notebooks/05_Basic_Linear_Algebra.ipynb) | [Report](01_Execution_Reports/05_Basic_Linear_Algebra.md) |
+| 6 | Linear Algebra 2 | 35 | [Notebook](02_Notebooks/06_Linear_Algebra_2.ipynb) | [Report](01_Execution_Reports/06_Linear_Algebra_2.md) |
+| 7 | Linear Algebra 3 | 30 | [Notebook](02_Notebooks/07_Linear_Algebra_3.ipynb) | [Report](01_Execution_Reports/07_Linear_Algebra_3.md) |
+| 8 | Probability | 83 | [Notebook](02_Notebooks/08_Probability.ipynb) | [Report](01_Execution_Reports/08_Introduction_to_Probability.md) |
+| 9 | Statistics | 86 | [Notebook](02_Notebooks/09_Statistics.ipynb) | [Report](01_Execution_Reports/09_Introduction_to_Statistics.md) |
+| 10 | Data Science Probability & Statistics 1 | 22  | [Notebook](02_Notebooks/10_Data_Science_Probability_Statistics_1.ipynb) | [Report](01_Execution_Reports/10_Data_Science_Probability_Statistics_1.md) |
+| 11 | Data Science Probability & Statistics 2 | 16 | [Notebook](02_Notebooks/11_Data_Science_Probability_Statistics_2.ipynb) | [Report](01_Execution_Reports/11_Data_Science_Probability_Statistics_2.md) |
+| 12 | Data Science Probability & Statistics 3 | 52 | [Notebook](02_Notebooks/12_Data_Science_Probability_Statistics_3.ipynb) | [Report](01_Execution_Reports/12_Data_Science_Probability_Statistics_3.md) |
+| 13 | Calculus 1 | 79  | [Notebook](02_Notebooks/13_Calculus_1.ipynb) | [Report](01_Execution_Reports/13_Calculus_1.md) |
+| 14 | Calculus 2 | 17 | [Notebook](02_Notebooks/14_Calculus_2.ipynb) | [Report](01_Execution_Reports/14_Calculus_2.md) |
+| 15 | Calculus 3 | 51 | [Notebook](02_Notebooks/15_Calculus_3.ipynb) | [Report](01_Execution_Reports/15_Calculus_3.md) |
+| 16 | Foundations of Learning | 22 | [Notebook](02_Notebooks/16_Foundations_of_Learning.ipynb) | [Report](01_Execution_Reports/16_Foundations_of_Learning.md) |
 
 ## Repository Structure
 
