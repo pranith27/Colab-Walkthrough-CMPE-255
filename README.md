@@ -1,7 +1,6 @@
 # CMPE 255 — Colab Walkthroughs
 
-Pranith Varma Pakalapati
-
+Name: Pranith Varma Pakalapati
 **Course:** CMPE 255 Data Mining  
 **Repository:** `Colab-Walkthrough-CMPE-255`
 
