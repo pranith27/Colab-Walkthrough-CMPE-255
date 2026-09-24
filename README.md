@@ -19,22 +19,22 @@ All 16 archived notebooks were inspected from the executed notebook set. The not
 
 | # | Topic | Code cells | Notebook | Execution report | YouTube walkthrough |
 |---:|---|---:|---|---|---|
-| 1 | Python | 151 | [Notebook](02_Notebooks/01_Introduction_to_Python.ipynb) | [Report](01_Execution_Reports/01_Introduction_to_Python.md) | **ADD YOUTUBE LINK** |
-| 2 | NumPy | 54 | [Notebook](02_Notebooks/02_Introduction_to_NumPy.ipynb) | [Report](01_Execution_Reports/02_Introduction_to_NumPy.md) | **ADD YOUTUBE LINK** |
-| 3 | Pandas | 90 | [Notebook](02_Notebooks/03_Introduction_to_Pandas.ipynb) | [Report](01_Execution_Reports/03_Introduction_to_Pandas.md) | **ADD YOUTUBE LINK** |
-| 4 | Matplotlib | 85 | [Notebook](02_Notebooks/04_Matplotlib.ipynb) | [Report](01_Execution_Reports/04_Introduction_to_Matplotlib.md) | **ADD YOUTUBE LINK** |
-| 5 | Basic Linear Algebra | 82 | [Notebook](02_Notebooks/05_Basic_Linear_Algebra.ipynb) | [Report](01_Execution_Reports/05_Basic_Linear_Algebra.md) | **ADD YOUTUBE LINK** |
-| 6 | Linear Algebra 2 | 35 | [Notebook](02_Notebooks/06_Linear_Algebra_2.ipynb) | [Report](01_Execution_Reports/06_Linear_Algebra_2.md) | **ADD YOUTUBE LINK** |
-| 7 | Linear Algebra 3 | 30 | [Notebook](02_Notebooks/07_Linear_Algebra_3.ipynb) | [Report](01_Execution_Reports/07_Linear_Algebra_3.md) | **ADD YOUTUBE LINK** |
-| 8 | Probability | 83 | [Notebook](02_Notebooks/08_Probability.ipynb) | [Report](01_Execution_Reports/08_Introduction_to_Probability.md) | **ADD YOUTUBE LINK** |
-| 9 | Statistics | 86 | [Notebook](02_Notebooks/09_Statistics.ipynb) | [Report](01_Execution_Reports/09_Introduction_to_Statistics.md) | **ADD YOUTUBE LINK** |
-| 10 | Data Science Probability & Statistics 1 | 22 | [Notebook](02_Notebooks/10_Data_Science_Probability_Statistics_1.ipynb) | [Report](01_Execution_Reports/10_Data_Science_Probability_Statistics_1.md) | **ADD YOUTUBE LINK** |
-| 11 | Data Science Probability & Statistics 2 | 16 | [Notebook](02_Notebooks/11_Data_Science_Probability_Statistics_2.ipynb) | [Report](01_Execution_Reports/11_Data_Science_Probability_Statistics_2.md) | **ADD YOUTUBE LINK** |
-| 12 | Data Science Probability & Statistics 3 | 52 | [Notebook](02_Notebooks/12_Data_Science_Probability_Statistics_3.ipynb) | [Report](01_Execution_Reports/12_Data_Science_Probability_Statistics_3.md) | **ADD YOUTUBE LINK** |
-| 13 | Calculus 1 | 79 | [Notebook](02_Notebooks/13_Calculus_1.ipynb) | [Report](01_Execution_Reports/13_Calculus_1.md) | **ADD YOUTUBE LINK** |
-| 14 | Calculus 2 | 17 | [Notebook](02_Notebooks/14_Calculus_2.ipynb) | [Report](01_Execution_Reports/14_Calculus_2.md) | **ADD YOUTUBE LINK** |
-| 15 | Calculus 3 | 51 | [Notebook](02_Notebooks/15_Calculus_3.ipynb) | [Report](01_Execution_Reports/15_Calculus_3.md) | **ADD YOUTUBE LINK** |
-| 16 | Foundations of Learning | 22 | [Notebook](02_Notebooks/16_Foundations_of_Learning.ipynb) | [Report](01_Execution_Reports/16_Foundations_of_Learning.md) | **ADD YOUTUBE LINK** |
+| 1 | Python | 151 | [Notebook](02_Notebooks/01_Introduction_to_Python.ipynb) | [Report](01_Execution_Reports/01_Introduction_to_Python.md) | ** YOUTUBE LINK** |
+| 2 | NumPy | 54 | [Notebook](02_Notebooks/02_Introduction_to_NumPy.ipynb) | [Report](01_Execution_Reports/02_Introduction_to_NumPy.md) | ** YOUTUBE LINK** |
+| 3 | Pandas | 90 | [Notebook](02_Notebooks/03_Introduction_to_Pandas.ipynb) | [Report](01_Execution_Reports/03_Introduction_to_Pandas.md) | ** YOUTUBE LINK** |
+| 4 | Matplotlib | 85 | [Notebook](02_Notebooks/04_Matplotlib.ipynb) | [Report](01_Execution_Reports/04_Introduction_to_Matplotlib.md) | ** YOUTUBE LINK** |
+| 5 | Basic Linear Algebra | 82 | [Notebook](02_Notebooks/05_Basic_Linear_Algebra.ipynb) | [Report](01_Execution_Reports/05_Basic_Linear_Algebra.md) | ** YOUTUBE LINK** |
+| 6 | Linear Algebra 2 | 35 | [Notebook](02_Notebooks/06_Linear_Algebra_2.ipynb) | [Report](01_Execution_Reports/06_Linear_Algebra_2.md) | ** YOUTUBE LINK** |
+| 7 | Linear Algebra 3 | 30 | [Notebook](02_Notebooks/07_Linear_Algebra_3.ipynb) | [Report](01_Execution_Reports/07_Linear_Algebra_3.md) | ** YOUTUBE LINK** |
+| 8 | Probability | 83 | [Notebook](02_Notebooks/08_Probability.ipynb) | [Report](01_Execution_Reports/08_Introduction_to_Probability.md) | ** YOUTUBE LINK** |
+| 9 | Statistics | 86 | [Notebook](02_Notebooks/09_Statistics.ipynb) | [Report](01_Execution_Reports/09_Introduction_to_Statistics.md) | ** YOUTUBE LINK** |
+| 10 | Data Science Probability & Statistics 1 | 22 | [Notebook](02_Notebooks/10_Data_Science_Probability_Statistics_1.ipynb) | [Report](01_Execution_Reports/10_Data_Science_Probability_Statistics_1.md) | ** YOUTUBE LINK** |
+| 11 | Data Science Probability & Statistics 2 | 16 | [Notebook](02_Notebooks/11_Data_Science_Probability_Statistics_2.ipynb) | [Report](01_Execution_Reports/11_Data_Science_Probability_Statistics_2.md) | ** YOUTUBE LINK** |
+| 12 | Data Science Probability & Statistics 3 | 52 | [Notebook](02_Notebooks/12_Data_Science_Probability_Statistics_3.ipynb) | [Report](01_Execution_Reports/12_Data_Science_Probability_Statistics_3.md) | ** YOUTUBE LINK** |
+| 13 | Calculus 1 | 79 | [Notebook](02_Notebooks/13_Calculus_1.ipynb) | [Report](01_Execution_Reports/13_Calculus_1.md) | ** YOUTUBE LINK** |
+| 14 | Calculus 2 | 17 | [Notebook](02_Notebooks/14_Calculus_2.ipynb) | [Report](01_Execution_Reports/14_Calculus_2.md) | ** YOUTUBE LINK** |
+| 15 | Calculus 3 | 51 | [Notebook](02_Notebooks/15_Calculus_3.ipynb) | [Report](01_Execution_Reports/15_Calculus_3.md) | ** YOUTUBE LINK** |
+| 16 | Foundations of Learning | 22 | [Notebook](02_Notebooks/16_Foundations_of_Learning.ipynb) | [Report](01_Execution_Reports/16_Foundations_of_Learning.md) | ** YOUTUBE LINK** |
 
 ## Repository Structure
 
