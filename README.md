@@ -1,11 +1,13 @@
 # CMPE 255 — Prerequisite Refresher: AI/ML Foundations
 
+Pranith Varma
+
 **Course:** CMPE 255 Data Mining  
 **Repository:** `Colab-Walkthrough-CMPE-255`
 
 ## Purpose
 
-This repository contains the executed prerequisite Colabs for the CMPE 255 refresher assignment. The work covers programming, numerical computing, data manipulation, visualization, linear algebra, probability, statistics, calculus, and foundations of learning. The focus is on refreshing the fundamentals needed to understand machine learning algorithms, tensors, optimization, and common AI model architectures.
+This repository contains the executed prerequisite Colabs for the CMPE 255 assignment. The work covers programming, numerical computing, data manipulation, visualization, linear algebra, probability, statistics, calculus, and foundations of learning. The focus is on refreshing the fundamentals needed to understand machine learning algorithms, tensors, optimization, and common AI model architectures.
 
 ## Execution Status
 
