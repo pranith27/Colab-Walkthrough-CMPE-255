@@ -9,6 +9,10 @@ Name: Pranith Varma Pakalapati
 
 This repository contains the executed prerequisite Colabs for the CMPE 255 refresher assignment. The work covers programming, numerical computing, data manipulation, visualization, linear algebra, probability, statistics, calculus, and foundations of learning. The focus is on refreshing the fundamentals needed to understand machine learning algorithms, tensors, optimization, and common AI model architectures.
 
+## Google Drive Colabs
+
+[Access all copied and executed Colabs](https://drive.google.com/drive/folders/1GZvvx28Wdjtcti6DPMbe2IFReWK1uviu?usp=sharing)
+
 ## Execution Status
 
 All 16 archived notebooks were inspected from the executed notebook set. The notebooks are archived with their recorded outputs.
