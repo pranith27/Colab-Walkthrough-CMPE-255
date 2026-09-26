@@ -19,8 +19,8 @@ All 16 archived notebooks were inspected from the executed notebook set. The not
 
 | # | Topic | Code cells | Notebook | Execution report | YouTube walkthrough |
 |---:|---|---:|---|---|---|
-| 1 | Python | 151 | [Notebook](02_Notebooks/01_Introduction_to_Python.ipynb) | [Report](01_Execution_Reports/01_Introduction_to_Python.md) | ** YOUTUBE LINK** |
-| 2 | NumPy | 54 | [Notebook](02_Notebooks/02_Introduction_to_NumPy.ipynb) | [Report](01_Execution_Reports/02_Introduction_to_NumPy.md) | ** YOUTUBE LINK** |
+| 1 | Python | 151 | [Notebook](02_Notebooks/01_Introduction_to_Python.ipynb) | [Report](01_Execution_Reports/01_Introduction_to_Python.md) | ** https://youtu.be/xA_ly3JNoOo?si=tqBPzH89ynB7iSaD ** |
+| 2 | NumPy | 54 | [Notebook](02_Notebooks/02_Introduction_to_NumPy.ipynb) | [Report](01_Execution_Reports/02_Introduction_to_NumPy.md) | ** https://youtu.be/JjLdD6CKvOk?si=Mn27ii3PzSxODR8P ** |
 | 3 | Pandas | 90 | [Notebook](02_Notebooks/03_Introduction_to_Pandas.ipynb) | [Report](01_Execution_Reports/03_Introduction_to_Pandas.md) | ** YOUTUBE LINK** |
 | 4 | Matplotlib | 85 | [Notebook](02_Notebooks/04_Matplotlib.ipynb) | [Report](01_Execution_Reports/04_Introduction_to_Matplotlib.md) | ** YOUTUBE LINK** |
 | 5 | Basic Linear Algebra | 82 | [Notebook](02_Notebooks/05_Basic_Linear_Algebra.ipynb) | [Report](01_Execution_Reports/05_Basic_Linear_Algebra.md) | ** YOUTUBE LINK** |
